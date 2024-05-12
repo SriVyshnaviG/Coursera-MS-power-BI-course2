@@ -1,0 +1,8 @@
+Calculations with DAX:
+
+Data Analysis Expressions (DAX) is the foundation for calculations in Power BI.
+Calculations allow for specific operations on data, creating new measures, columns, and tables.
+Various types of calculations:
+Aggregations: Summarizing data (e.g., summing up, finding averages).
+Time-based calculations: Comparing data across different time periods.
+Ratios and percentages: Understanding proportions and shares of a whole.
