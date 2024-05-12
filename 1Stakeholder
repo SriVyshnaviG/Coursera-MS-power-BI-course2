@@ -1,0 +1,65 @@
+Exemplar: Stakeholder experience
+Introduction
+
+In the exercise, Stakeholder experience, you explored stakeholder experience and its importance in designing effective data visualizations. You were tasked with examining a case study involving a data analyst that engaged with stakeholder experience in the data visualization process. You then answered questions that related to stakeholder experience and the process of understanding and using stakeholder experience in designing effective data visualizations.
+
+You can use the example answers in this reading as a guide to assess your answers to the questions in the exercise. Your answers may differ from these and still be correct.
+
+Questions about stakeholder experience
+
+1. What is the primary goal of data visualization in the data analysis process?
+
+The primary goal of data visualization in the data analysis process is to help stakeholders understand trends, patterns, and insights from data, supporting them in making informed business decisions.
+
+2. Briefly define stakeholder experience in the context of data analysis and visualization.
+
+Stakeholder experience, in the context of data analysis and visualization, refers to the specific needs, preferences, and expectations of the stakeholders who will engage with the visualizations and insights in a data analysis report. It involves understanding the audience's goals, technical expertise, and the context in which they will be using the visualizations.
+
+3. Explain two reasons why stakeholder experience is important when creating data visualizations.
+
+Understanding stakeholder experience makes it possible to tailor visualizations based on stakeholders’ goals, priorities, and needs. These tailored and appealing visualizations make it easier for stakeholders to comprehend and use data insights for decision-making, enhancing their engagement with the data. By demonstrating an understanding of stakeholders' goals and priorities, data analysts can build trust, leading to greater stakeholder support, data-driven decisions, and positive business outcomes.
+
+4. List the steps in the stakeholder experience process.
+
+The steps in the stakeholder experience process are:
+
+Identifying stakeholders
+
+Defining stakeholder goals
+
+Choosing visualization types
+
+Designing for stakeholder experience
+
+Making interactive visualizations 
+
+Testing and iterating
+
+5. How can you identify the goals and preferences of different stakeholder groups when designing visualizations?
+
+To identify the goals and preferences of different stakeholder groups when designing visualizations, you can consult with each group, understand their specific interests and priorities, and gather feedback throughout the design process.
+
+6. What is one challenge you think Adio may face in designing data visualizations that meet the needs of different stakeholders?
+
+One challenge Adio may face in designing data visualizations that meet the needs of different stakeholders is balancing the diverse needs, preferences, and expectations of each group, while still creating concise, easy-to-understand, and visually appealing visualizations. Adio will need to build different versions of the report with varying levels of detail based on the specific needs, preferences, and backgrounds of each group.
+
+7. Briefly discuss what you need to consider when choosing the right visualization type for stakeholders.
+
+When choosing the right visualization type for stakeholders, you need to consider the type of data you're working with, which visualization types best communicate the insights that the stakeholders need and improve understanding, as well as visual appeal.
+
+8. What is the purpose of making visualizations interactive?
+
+The purpose of making visualizations interactive is to enhance data insight engagement, exploration, and understanding by allowing stakeholders to interact with the data and filter, sort, and explore various aspects of the visualizations according to their needs.
+
+9. A focus group finds a visualization Adio designed difficult to understand. Adio adds more interactive features and updates the design. Which step in the process is Adio engaging in?
+
+When a focus group finds a visualization difficult to understand and Adio adds more interactive features and updates the design, he is engaging in the Testing and iterating step of the stakeholder experience process.
+
+10. In no more than two sentences, how do you think stakeholder experience can contribute to improving business outcomes through data-driven decision-making?
+
+Stakeholder experience can improve business outcomes through data-driven decision-making by ensuring that visualizations are tailored to the needs and preferences of stakeholders. These visualizations then enable stakeholders to better understand and act upon data insights for informed decision-making.
+
+Conclusion
+
+By understanding stakeholder experience and its role in data visualization, you can apply the steps necessary for creating effective data visualizations, driving decision-making, and producing meaningful results. By considering each stage of the process—from identifying stakeholders and defining their goals to choosing the right visualization type, designing with stakeholder experience in mind, making visualizations interactive, and testing and iterating—you can ensure that your visualizations connect with diverse audiences and effectively communicate the insights they need.
+
